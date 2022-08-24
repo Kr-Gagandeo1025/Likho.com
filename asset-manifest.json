@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Likho.com/static/css/main.31d6cfe0.css",
+    "main.js": "/Likho.com/static/js/main.6922124d.js",
+    "static/js/512.125ea300.chunk.js": "/Likho.com/static/js/512.125ea300.chunk.js",
+    "index.html": "/Likho.com/index.html",
+    "main.6922124d.js.map": "/Likho.com/static/js/main.6922124d.js.map",
+    "512.125ea300.chunk.js.map": "/Likho.com/static/js/512.125ea300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6922124d.js"
+  ]
+}
